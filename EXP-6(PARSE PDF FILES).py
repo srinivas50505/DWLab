@@ -22,4 +22,5 @@ def extract_text_from_pdf(pdf_path):
 pdf_path = 'your_pdf_file.pdf'
 extracted_text = extract_text_from_pdf(pdf_path)
 # Print the extracted text
-print(extracted_text) 
+print(extracted_text) 
+
